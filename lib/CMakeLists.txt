@@ -1,0 +1,2 @@
+add_library(StableBuffer CCircuitalBuffer.cpp CCircuitalBuffer.h)
+add_library(ExtendedBuffer CCircuitalBufferExt.cpp CCircuitalBufferExt.h)
